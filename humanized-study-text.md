@@ -1,7 +1,7 @@
 # Yeast Fermentation Study — Humanized Summary
 
-In this study, we wanted to find out whether the type of sugar matters when it comes to yeast fermentation. We set up an experiment using three different sugar treatments — dextrose, sucrose, and Splenda — and measured how much carbon dioxide the yeast produced by tracking the diameter of a balloon at its widest point over 45 minutes. Each treatment was repeated nine times (n = 9) to make sure our results were reliable.
+The purpose of this study was to determine whether different types of sugar have an effect on yeast fermentation. Yeast was exposed to three sugar treatments — dextrose, sucrose, and Splenda — and carbon dioxide production was estimated by measuring the diameter of a balloon at its widest point over a 45-minute period. Nine replicate bottles were used for each treatment (n = 9).
 
-All three treatments caused the balloons to expand over time, but some sugars clearly worked better than others. Sucrose led to the biggest balloons, dextrose came in second, and Splenda barely caused any expansion at all. When we ran a one-way ANOVA on the 45-minute measurements, the difference between groups was highly significant (F(2, 24) = 672.57, p < 0.001).
+Balloon diameter increased over time across all three treatments, though the extent of that increase varied by sugar type. Sucrose produced the largest mean balloon diameter, followed by dextrose, while Splenda resulted in very little expansion. A one-way ANOVA on the 45-minute measurements confirmed that sugar type had a significant effect on balloon diameter (F(2, 24) = 672.57, p < 0.001).
 
-So what does this tell us? Basically, yeast needs real, fermentable sugars to do its job well. Artificial sweeteners like Splenda just don't give yeast much to work with, which is why we saw so little CO₂ production in that group.
+These findings suggest that yeast fermentation is closely tied to the type of sugar available. Fermentable sugars like sucrose and dextrose support considerably more carbon dioxide production than an artificial sweetener like Splenda.
